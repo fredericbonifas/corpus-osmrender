@@ -3,7 +3,6 @@ Add a style
 
 Of course, replace all occurences of ``desaturate`` by ``<yourstyle>``.
 
-
 For desaturate, log of my operations:
 
 
